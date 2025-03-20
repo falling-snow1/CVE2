@@ -22,13 +22,15 @@ Any user who can operate the voting function can do so
 
 2.Find the voting function
 
-![image-20250320163420575](C:\Users\CPZX-001\AppData\Roaming\Typora\typora-user-images\image-20250320163420575.png)
+![image-20250320163420575](https://github.com/user-attachments/assets/4e2ab52c-6590-4790-8a52-a75ea420333e)
+
 
 payload:
 
 
 
-![image-20250320163630386](C:\Users\CPZX-001\AppData\Roaming\Typora\typora-user-images\image-20250320163630386.png)
+![image-20250320163630386](https://github.com/user-attachments/assets/0a07b3e1-4f64-46a1-8565-eb69b11eb8e3)
+
 
 Here you can set up voting for users who are not logged in
 
@@ -38,4 +40,5 @@ Here you can set up voting for users who are not logged in
 
 Then find the target url
 
-![image-20250320163742848](C:\Users\CPZX-001\AppData\Roaming\Typora\typora-user-images\image-20250320163742848.png)
+![image-20250320163742848](https://github.com/user-attachments/assets/1f7be44a-d8ed-4e33-8d3f-b53c8771baf7)
+
