@@ -1,38 +1,41 @@
-# DedeCMS V5.7.92-V5.7.116 has Stored Cross-Site Scripting
+# ZCMS V5.7.92-V5.7.116 has Stored Cross-Site Scripting
 
 ## vendors
 
-https://www.dedecms.com/
+[https://www.dedecms.com/](https://demo.zving.com/demo/login.html)
 
 ## Vulnerability function
 
 Avatar upload And template include.
 
-DedeCMS V5.7.92 and later has a Stored Cross-Site Scripting vulnerability in voting function, which needs to be authenticated.
+ZCMS V3.6.0  has a Stored Cross-Site Scripting vulnerability in Creating an article function, which needs to be authenticated.
 
 ## POC
 
 1. login in the System.
 
-username:admin
+username:demo
 
-password:admin
+password:demodemo
 
-Any user who can operate the voting function can do so
 
-2.Find the voting function
 
-![image-20250320163420575](https://github.com/user-attachments/assets/4e2ab52c-6590-4790-8a52-a75ea420333e)
+2.Find the Creating an article function
+
+![image](https://github.com/user-attachments/assets/62c9eb14-612d-440c-92c7-f8bc91419f2c)
+
 
 
 payload:
 
 
 
-![image-20250320163630386](https://github.com/user-attachments/assets/0a07b3e1-4f64-46a1-8565-eb69b11eb8e3)
+![image](https://github.com/user-attachments/assets/e23acb7e-3573-4472-b06d-64574e2f8335)
 
+And you can preview
 
-Here you can set up voting for users who are not logged in
+![image](https://github.com/user-attachments/assets/1ea173fa-db05-4ab4-ba22-796d0d883f1c)
+
 
 
 
