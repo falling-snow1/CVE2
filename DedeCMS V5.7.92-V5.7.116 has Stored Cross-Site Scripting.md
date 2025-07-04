@@ -2,7 +2,7 @@
 
 ## vendors
 
-[https://www.dedecms.com/](https://demo.zving.com/demo/login.html)
+https://demo.zving.com/demo/login.html
 
 ## Vulnerability function
 
