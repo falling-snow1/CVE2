@@ -1,4 +1,4 @@
-# ZCMS V5.7.92-V5.7.116 has Stored Cross-Site Scripting
+# ZCMS V3.6 has Stored Cross-Site Scripting
 
 ## vendors
 
