@@ -34,7 +34,7 @@ payload:
 
 And you can preview
 
-![image](https://github.com/user-attachments/assets/1ea173fa-db05-4ab4-ba22-796d0d883f1c)
+
 
 
 
